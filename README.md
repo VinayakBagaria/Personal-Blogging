@@ -8,15 +8,17 @@ It also uses MongoDB for database design.
 
 <h3>FEATURES : </h3>
   Login Page for old users
-  <br>
-  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/login.JPG){:style="float: right;margin-right: 7px;margin-top: 7px;"}
-  <br>
+  <hr/>
+  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/login.JPG)]
+  <hr/>
   New Blogs Option
-  <br>
-  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/blogs.JPG){:style="float: right;margin-right: 7px;margin-top: 7px;"}{:style="float: right;margin-right: 7px;margin-top: 7px;"}
+  <hr/>
+  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/blogs.JPG)
+  <hr/>
   New posts under each blog
-  <br>
-  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/post.JPG){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+  <hr/>
+  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/post.JPG)
+  <hr/>
   
 1. src/common/database refers to the operations with mongodb. Don't forget to start the mongo db server before executing the python code.
 2. src/models/blog is the file which describes a blog and saves it to our database.
