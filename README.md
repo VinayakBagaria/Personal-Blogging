@@ -4,7 +4,7 @@ The project uses Flask which is a framework for Python based on Werkzeug, Jinja 
 It also uses MongoDB for database design.
 
 <h1>Run app.py file in your python editor and then follow the link</h1>
-![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/run_app.JPG){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/run_app.JPG)
 
 <h3>FEATURES : </h3>
   Login Page for old users
