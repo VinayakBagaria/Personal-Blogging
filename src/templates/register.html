@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+    <div class="container">
+        <h1>Register With Us</h1>
+        {% if variable == 1 %}
+            <h1>Invalid Login</h1>
+        {% endif %}
+        <form id='register-form' action="/auth/register" method="post" >
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="text" class="form-control" id="email" name="email">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" id="password" name="password">
+            </div>
+            <button type="submit" class="btn btn-default btn-success">Sign Up</button>
+        </form>
+    </div>
+{% endblock %}
