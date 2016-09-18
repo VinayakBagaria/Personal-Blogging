@@ -1,4 +1,4 @@
-# Personal-Blogging API using HTML,Flask and Python
+# Personal-Blogging API using MongoDB,HTML,Flask and Python
 
 The project uses Flask which is a framework for Python based on Werkzeug, Jinja 2. I use Jinja 2 for the HTML page.
 It also uses MongoDB for database design.
