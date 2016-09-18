@@ -8,11 +8,15 @@ It also uses MongoDB for database design.
 
 <h3>FEATURES : </h3>
   Login Page for old users
+  <br>
   ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/login.JPG)
   Register Page for new users
+  <br>
   New Blogs Option
+  <br>
   ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/blogs.JPG)
   New posts under each blog
+  <br>
   ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/post.JPG)
   
 1. src/common/database refers to the operations with mongodb. Don't forget to start the mongo db server before executing the python code.
