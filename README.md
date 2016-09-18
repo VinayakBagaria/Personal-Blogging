@@ -18,4 +18,8 @@ It also uses MongoDB for database design.
 
 src/templates contain the HTML files with Jinja variables used in it. I have used Bootstrap to give some designing.
 
+<p align="center">
+  <img src="C:\Users\bagariavinayak\Pictures\login.jpg" width="350"/>
+</p>
+
 
