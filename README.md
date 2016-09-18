@@ -4,12 +4,16 @@ The project uses Flask which is a framework for Python based on Werkzeug, Jinja 
 It also uses MongoDB for database design.
 
 <h1>Run app.py file in your python editor and then follow the link</h1>
+![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/run_app.JPG)
 
 <h3>FEATURES : </h3>
   Login Page for old users
+  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/login.JPG)
   Register Page for new users
   New Blogs Option
+  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/blogs.JPG)
   New posts under each blog
+  ![alt tag](https://github.com/VinayakBagaria/Personal-Blogging/blob/master/post.JPG)
   
 1. src/common/database refers to the operations with mongodb. Don't forget to start the mongo db server before executing the python code.
 2. src/models/blog is the file which describes a blog and saves it to our database.
